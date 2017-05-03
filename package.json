@@ -1,0 +1,34 @@
+{
+  "name": "Timeline",
+  "version": "1.0.0",
+  "description": "Timeline by grzegorzSpiewak",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.18.2",
+    "casperjs": "^1.1.3",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jsdoc3": "^1.0.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "jsdom": "^9.11.0",
+    "pump": "^1.0.1",
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "test": "cd ./test && casperjs test ./E2E.js && node ./ShowMessageButton.spec.js",
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC"
+}

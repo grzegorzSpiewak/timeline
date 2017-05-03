@@ -1,0 +1,14 @@
+.select {
+  text-align: center;
+  margin-top: 10px;
+  padding: 5px;
+
+  @media (min-width: $mobile) {
+    margin-top: 50px;
+  }
+
+  h1 {
+    font-size: 18px;
+    color: $navy-blue-font;
+  }
+}
