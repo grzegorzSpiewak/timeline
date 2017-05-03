@@ -11,7 +11,7 @@ B. Installing project instructions:
    3. Open Git Bash or Console and clone link on your desktop (git clone `repository link`).
    4. Enter folder in Console (cd `folder name`).
    5. Type `npm install` or `npm i` to set up working environment.
-   6. When installation is over type `npm start` in console and whait few secound to lounch a project.
+   6. When installation is over type `npm start` in console and whait few seconds to launch a project.
    7. The project runs on http://localhost:3000/
 
 C. About Timeline
