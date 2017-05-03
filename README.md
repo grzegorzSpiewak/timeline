@@ -16,4 +16,4 @@ B. Installing project instructions:
 
 C. About Timeline
 
-Simple timeline created in CSS3 and pure Javasciprt - no frameworks required. Timeline is responisve and mobile ready. To interact with timeline select a number of day in input. Have fun! :)
+Timeline created in CSS3 and pure Javasciprt - no frameworks required. Timeline is responisve and mobile ready. To interact with timeline select a number of day in input. Have fun! :)
